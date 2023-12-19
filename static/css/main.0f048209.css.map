@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.0f048209.css","mappings":"AAAA,QAEE,uBAAwB,CADxB,iBAEF","sources":["components/Profile/profile.css"],"sourcesContent":[".avatar {\n  border-radius: 50%;\n  background-color: bisque;\n}\n"],"names":[],"sourceRoot":""}
