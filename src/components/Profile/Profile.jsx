@@ -1,4 +1,6 @@
-export const Profile = ({
+import './profile.css';
+
+const Profile = ({
   username,
   tag,
   location,
@@ -33,3 +35,5 @@ export const Profile = ({
     </div>
   );
 };
+
+export default Profile;
