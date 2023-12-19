@@ -8,7 +8,7 @@ const FriendList = ({ friends }) => {
       <p class="name">{friend.username}</p>
     </li>
   ));
-  return <ul class="friend-list"></ul>;
+  return <ul class="friend-list">{Frends}</ul>;
 };
 
 export default FriendList;
