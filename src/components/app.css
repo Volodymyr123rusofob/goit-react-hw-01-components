@@ -1,0 +1,13 @@
+.divWrap {
+  /* height: 100vh; */
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  color: #010101;
+  /* flex-direction: column; */
+  gap: 40px;
+  flex-wrap: wrap;
+}
