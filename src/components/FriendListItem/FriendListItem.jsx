@@ -1,8 +1,8 @@
 import './friendListItem.css';
 
-const FriendListItem = ({ avatar, name, isOnline, id }) => {
+const FriendListItem = ({ avatar, name, isOnline, }) => {
   return (
-    <li className="item-frend" key={id}>
+    <li className="item-frend">
       {isOnline ? (
         <span className="status"></span>
       ) : (
